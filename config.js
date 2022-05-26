@@ -154,6 +154,10 @@ const CONFIG = {
 					name: 'Weels on da bus',
 					link: 'https://www.youtube.com/watch?v=9rBg7ZO33J0',
 				},
+				{
+					name: 'bang!',
+					link: 'https://www.youtube.com/watch?v=n0J7XZthBzI&t=87s'
+				},
 			],
 		},
 		{
