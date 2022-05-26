@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'isynqq',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: '*Yawn* gud mornig,',
+	greetingAfternoon: 'Gud afternoon,',
+	greetingEvening: 'Gud evening,',
+	greetingNight: 'Night night 💤,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
